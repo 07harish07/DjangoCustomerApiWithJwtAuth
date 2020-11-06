@@ -16,3 +16,7 @@ to run docker
 
 `docker-compose up --build`
 
+Run local server
+
+`127.0.0.1:800` or `localhost:8000`
+
